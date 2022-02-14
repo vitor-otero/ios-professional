@@ -10,6 +10,7 @@
 		4EBCCFE427B913AD00177186 /* NewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EBCCFE327B913AD00177186 /* NewView.swift */; };
 		4EBCCFE627B9141F00177186 /* No Storynoard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EBCCFE527B9141F00177186 /* No Storynoard.swift */; };
 		4EBCCFE827B914A500177186 /* ActivateConstrainsArray .swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EBCCFE727B914A500177186 /* ActivateConstrainsArray .swift */; };
+		4ECFC59E27BA7E310011A1AE /* NewViewContrrollerStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ECFC59D27BA7E310011A1AE /* NewViewContrrollerStack.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -17,6 +18,7 @@
 		4EBCCFE327B913AD00177186 /* NewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewView.swift; sourceTree = "<group>"; };
 		4EBCCFE527B9141F00177186 /* No Storynoard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "No Storynoard.swift"; sourceTree = "<group>"; };
 		4EBCCFE727B914A500177186 /* ActivateConstrainsArray .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ActivateConstrainsArray .swift"; sourceTree = "<group>"; };
+		4ECFC59D27BA7E310011A1AE /* NewViewContrrollerStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewContrrollerStack.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +35,7 @@
 		4EBCCFC327B9135100177186 = {
 			isa = PBXGroup;
 			children = (
+				4ECFC59D27BA7E310011A1AE /* NewViewContrrollerStack.swift */,
 				4EBCCFE727B914A500177186 /* ActivateConstrainsArray .swift */,
 				4EBCCFE527B9141F00177186 /* No Storynoard.swift */,
 				4EBCCFE327B913AD00177186 /* NewView.swift */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4EBCCFE427B913AD00177186 /* NewView.swift in Sources */,
+				4ECFC59E27BA7E310011A1AE /* NewViewContrrollerStack.swift in Sources */,
 				4EBCCFE827B914A500177186 /* ActivateConstrainsArray .swift in Sources */,
 				4EBCCFE627B9141F00177186 /* No Storynoard.swift in Sources */,
 			);
