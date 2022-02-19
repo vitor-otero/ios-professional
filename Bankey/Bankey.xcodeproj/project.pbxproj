@@ -15,7 +15,7 @@
 		4E3EB21F27B86071000C4730 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E3EB21D27B86071000C4730 /* LaunchScreen.storyboard */; };
 		4EBCCFC227B866C100177186 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EBCCFC127B866C100177186 /* LoginView.swift */; };
 		4ECFC59A27BA69640011A1AE /* OnboardingContainerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ECFC59927BA69640011A1AE /* OnboardingContainerViewController.swift */; };
-		4ECFC5A027BA82350011A1AE /* OnboardinfViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ECFC59F27BA82350011A1AE /* OnboardinfViewController.swift */; };
+		4ECFC5A027BA82350011A1AE /* OnboardingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ECFC59F27BA82350011A1AE /* OnboardingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,7 +29,7 @@
 		4E3EB22027B86071000C4730 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4EBCCFC127B866C100177186 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		4ECFC59927BA69640011A1AE /* OnboardingContainerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingContainerViewController.swift; sourceTree = "<group>"; };
-		4ECFC59F27BA82350011A1AE /* OnboardinfViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardinfViewController.swift; sourceTree = "<group>"; };
+		4ECFC59F27BA82350011A1AE /* OnboardingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,7 +102,7 @@
 		4ECFC59827BA69060011A1AE /* Onboarding */ = {
 			isa = PBXGroup;
 			children = (
-				4ECFC59F27BA82350011A1AE /* OnboardinfViewController.swift */,
+				4ECFC59F27BA82350011A1AE /* OnboardingViewController.swift */,
 				4ECFC59927BA69640011A1AE /* OnboardingContainerViewController.swift */,
 			);
 			name = Onboarding;
@@ -182,7 +182,7 @@
 				4E3EB21727B8606E000C4730 /* LoginViewController.swift in Sources */,
 				4E3EB21327B8606E000C4730 /* AppDelegate.swift in Sources */,
 				4E1CEFF527C11AB2007F3752 /* RootPageViewController.swift in Sources */,
-				4ECFC5A027BA82350011A1AE /* OnboardinfViewController.swift in Sources */,
+				4ECFC5A027BA82350011A1AE /* OnboardingViewController.swift in Sources */,
 				4E1CEFF727C11ABC007F3752 /* RootPageView.swift in Sources */,
 				4ECFC59A27BA69640011A1AE /* OnboardingContainerViewController.swift in Sources */,
 			);
